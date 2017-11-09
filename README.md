@@ -1,15 +1,13 @@
 ttml-js
 =======
 
-JS library for TTML support
+DO NOT USE!
 
-Usage is
+This library is deprecated and not maintained.
 
-```
-<script src='HTML5_player.js'></script>
-<video src="example.movie" id="video" controls>
- <track srclang='en' type="application/ttaf+xml" src="testsuite/Content/Br001.xml"></track>
-</video>
-```
+Instead, use
+   https://github.com/sandflow/imscJS
+
+
 
 
